@@ -1,0 +1,11 @@
+var movie = "Scarface";
+var isEntertaining = true;
+movie = "Tenet";
+var num4 = 2;
+var num6 = 10;
+var product = (num4 * num6);
+console.log(product);
+var favoriteFoods = ["pizza", "wings", "ice cream"];
+const firstElement = favoriteFoods.shift();
+console.log(favoriteFoods);
+var len = movie.length;
